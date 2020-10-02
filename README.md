@@ -1,2 +1,6 @@
-# golang-design-patterns
-A collection of design pattern Implementation in GO Lang.
+# golang design patterns
+
+Trying to Implement Some of the Important Design Patterns using GO language
+
+
+
